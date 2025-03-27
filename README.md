@@ -6,6 +6,7 @@ ActiveDirectoryProject/<br/>
 ├── Homelab.png<br/>
 ├── SIEM/<br/>
 │   └── Sysmon_Splunk_Writeup.md<br/>
+│   └── Sysmon.pdf<br/>
 ├── SOAR/<br/>
 │   └── SOAR Diagram.pdf<br/>
 │   └── SoarDetections.png<br/>
@@ -41,3 +42,10 @@ ActiveDirectoryProject/<br/>
 - T1059.001 (PowerShell execution)
 - Windows Defender blocked threats.
 - All events logged and verified in Splunk.
+
+
+## 📄 Full SIEM Detection Report (PDF)
+
+All screenshots, detections, and endpoint event logs are documented in the full report below:
+
+➡️ [Sysmon + Splunk Detection Report (View PDF)](https://github.com/JSaas9364/ActiveDirectoryProject/blob/main/SIEM/Sysmon.pdf)
